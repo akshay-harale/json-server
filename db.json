@@ -2,33 +2,33 @@
   "technologies": [
     { "id": "java", "desc": "Java is programming language" ,"topics":[
       {
-        "id":"for loop"
+        "id":"for loop",
         "desc":"for loop in java"
       },
       {
-        "id":"if else"
+        "id":"if else",
         "desc":"if else in java"
       }
       ]
     },
     { "id": "scala", "desc": "Scala is programming language" ,"topics":[
       {
-        "id":"for loop"
+        "id":"for loop",
         "desc":"for loop in scala"
       },
       {
-        "id":"if else"
+        "id":"if else",
         "desc":"if else in scala"
       }
       ]
     },
     { "id": "python", "desc": "Python is is programming language" ,"topics":[
       {
-        "id":"for loop"
+        "id":"for loop",
         "desc":"for loop in python"
       },
       {
-        "id":"if else"
+        "id":"if else",
         "desc":"if else in python"
       }
       ]

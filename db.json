@@ -1,6 +1,6 @@
 {
   "technologies": [
-    { "id": "java", "desc": "Java is programming language" ,"topics":[
+    { "id": "java", "desc": "Java is programming language" ,"java":[
       {
         "id":"for loop",
         "desc":"for loop in java"
@@ -11,7 +11,7 @@
       }
       ]
     },
-    { "id": "scala", "desc": "Scala is programming language" ,"topics":[
+    { "id": "scala", "desc": "Scala is programming language" ,"scala":[
       {
         "id":"for loop",
         "desc":"for loop in scala"
@@ -22,7 +22,7 @@
       }
       ]
     },
-    { "id": "python", "desc": "Python is is programming language" ,"topics":[
+    { "id": "python", "desc": "Python is is programming language" ,"python":[
       {
         "id":"for loop",
         "desc":"for loop in python"

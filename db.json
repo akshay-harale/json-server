@@ -1,8 +1,32 @@
 {
   "technologies": [
-    { "id": "java", "desc": "Java is programming language" },
-    { "id": "scala", "desc": "Scala is programming language" },
-    { "id": "python", "desc": "Python is is programming language" }
+    { "id": "java", "desc": "Java is programming language" ,"topics":[
+      {
+        "for loop":"for loop in java"
+      },
+      {
+        "if else":"if else in java"
+      }
+      ]
+    },
+    { "id": "scala", "desc": "Scala is programming language" ,"topics":[
+      {
+        "for loop":"for loop in scala"
+      },
+      {
+        "if else":"if else in scala"
+      }
+      ]
+    },
+    { "id": "python", "desc": "Python is is programming language" ,"topics":[
+      {
+        "for loop":"for loop in python"
+      },
+      {
+        "if else":"if else in python"
+      }
+      ]
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
